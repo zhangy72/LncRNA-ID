@@ -1,7 +1,7 @@
 LncRNA-ID
 =========
 
-Long non-coding RNA IDentification using balanced random forest
+This project contains supporting scripts and data for the paper ``Long non-coding RNA IDentification using balanced random forest''
 
 Files
 ===========
