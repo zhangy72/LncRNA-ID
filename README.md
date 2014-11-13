@@ -1,7 +1,7 @@
 LncRNA-ID
 =========
 
-This project contains supporting scripts and data for the paper *Long non-coding RNA IDentification using balanced random forest* by Rujira Achawanantakun, Yanni Sun, and Yuan Zhang.
+This project contains supporting scripts and data for the paper **Long non-coding RNA IDentification using balanced random forest** by Rujira Achawanantakun, Yanni Sun, and Yuan Zhang.
 
 Files
 ===========
