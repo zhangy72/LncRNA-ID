@@ -18,7 +18,7 @@ DNA2Protein.cpp: Tranlsate DNA sequences into a protein sequence using multiple 
 
 Data:
 --------------------
-The data are available for download at [here(https://www.dropbox.com/sh/7yvmqknartttm6k/AAAGJrYG2eZSn8QG7oVsYCyOa?dl=0)
+The data are available for download at [here](https://www.dropbox.com/sh/7yvmqknartttm6k/AAAGJrYG2eZSn8QG7oVsYCyOa?dl=0)
 
 The list of data files:
 
