@@ -32,3 +32,4 @@ The list of data files:
 
 5. MouseLincRNA.v3.ChromatinDefinedWithNames.bed: mouse lncRNA annotation file 
 
+6. gencode.v7.lncRNA_transcripts.fa: gencode human lncRNA transcripts.
