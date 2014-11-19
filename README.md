@@ -18,7 +18,17 @@ DNA2Protein.cpp: Tranlsate DNA sequences into a protein sequence using multiple 
 
 Data:
 --------------------
-gencode.v7.lncRNA_transcripts.fa: genecode lncRNA transcript file
+The data are available for download at [here(https://www.dropbox.com/sh/7yvmqknartttm6k/AAAGJrYG2eZSn8QG7oVsYCyOa?dl=0)
 
-human.lncrna.fa: human lncRNA sequences
+The list of data files:
+
+1. gencode.v7.lncRNA_transcripts.fa: genecode lncRNA transcript file
+
+2. human.lncrna.fa: human lncRNA sequences
+
+3. human.bed: human gene annotation file
+
+4. mouse.lncrna.fa: mouse lncRNA fasta file
+
+5. MouseLincRNA.v3.ChromatinDefinedWithNames.bed: mouse lncRNA annotation file 
 
