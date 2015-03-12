@@ -20,16 +20,12 @@ Data:
 --------------------
 The data are available for download at [here](https://www.dropbox.com/sh/7yvmqknartttm6k/AAAGJrYG2eZSn8QG7oVsYCyOa?dl=0).
 
-The list of data files:
+The data files used in our experiments are organized into the following four folders:
 
-1. gencode.v7.lncRNA_transcripts.fa: genecode lncRNA transcript file
+1. H1_gencode/ : the human GENCODE data set (H1)  
 
-2. human.lncrna.fa: human lncRNA sequences
+2. M1_gencode/ : the mouse GENCODE data set (M1)
 
-3. human.bed: human gene annotation file
+3. H2_cpat/ : CPAT’s human data set (H2)
 
-4. mouse.lncrna.fa: mouse lncRNA fasta file
-
-5. MouseLincRNA.v3.ChromatinDefinedWithNames.bed: mouse lncRNA annotation file 
-
-6. gencode.v7.lncRNA_transcripts.fa: gencode human lncRNA transcripts.
+4. M2_ribosomeRelease/ : experimentally verified mouse lncRNA data set (M2)
